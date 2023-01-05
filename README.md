@@ -18,4 +18,5 @@ This repository is a record of what I studied in a course on building tensorflow
 | Section 9<br>Data Validation with TensorFlow Data Validation (TFDV) | Data Validation |
 | Section 10<br>Data Preprocessing with TensorFlow Transform (TFT) | Data Preprocessing |
 | Section 11<br>Creating an API with Flask and TensorFlow | API Creation |
+
 [Lecture_Link]: https://www.udemy.com/course/tensorflow-2
